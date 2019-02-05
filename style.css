@@ -1,0 +1,14 @@
+body {
+    padding: 5%;
+    background-color:white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.agency {
+    color: brown;
+}
+
